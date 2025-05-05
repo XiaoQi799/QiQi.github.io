@@ -14,6 +14,6 @@ tags:
 <div>
    <a href="/_includes/小鸟4手机版.html">小鸟飞飞</a>
     <a href="./_includes/小鸟4手机版.html">小鸟飞飞2</a>
-    <a href="//_includes/小鸟4手机版.html">小鸟飞飞</a>
-    <a href=>小鸟飞飞</a>
+    <a href="../_includes/小鸟4手机版.html">小鸟飞飞</a>
+    <a href="includes/index.html">小鸟飞飞</a>
 </div>
